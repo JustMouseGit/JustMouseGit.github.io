@@ -7,4 +7,3 @@
     <button onclick="window.location.href='rgb.xml'">Задание 2</button>
   </body>
 </html>
-# JustMouseGit.github.io
